@@ -1,0 +1,6 @@
+cursor-bin
+gtk-engine-murrine
+nmgui-bin
+paru-debug
+snapd
+wlroots-asan-git
